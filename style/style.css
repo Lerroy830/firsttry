@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: red;
+	height: 100px;
+}
+ul.hr li {
+	display: inline;
+	float: right;
+	padding: 5px;
+	margin-right: 5px;
+}
+
+main{
+	height: 85vh;
+}
+
+footer{
+	background-color: red;
+	height: 100px
+}
